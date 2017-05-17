@@ -1,5 +1,5 @@
 # pin-town-emoji
-A pack of emojis from Pin-Town! Contains a 100 pals and a 100 gals!
+A pack of emojis from [Pin-Town](https://www.pin-town.com)! Contains a 100 pals and a 100 gals!
 
 ![:pals-1:](36x36/pals-1.png?raw=true ":pals-1:") ![:pals-2:](36x36/pals-2.png?raw=true ":pals-2:") ![:pals-3:](36x36/pals-3.png?raw=true ":pals-3:") ![:pals-4:](36x36/pals-4.png?raw=true ":pals-4:") ![:pals-5:](36x36/pals-5.png?raw=true ":pals-5:") ![:pals-6:](36x36/pals-6.png?raw=true ":pals-6:") ![:pals-7:](36x36/pals-7.png?raw=true ":pals-7:") ![:pals-8:](36x36/pals-8.png?raw=true ":pals-8:") ![:pals-9:](36x36/pals-9.png?raw=true ":pals-9:") ![:pals-10:](36x36/pals-10.png?raw=true ":pals-10:") ![:pals-11:](36x36/pals-11.png?raw=true ":pals-11:") ![:pals-12:](36x36/pals-12.png?raw=true ":pals-12:") ![:pals-13:](36x36/pals-13.png?raw=true ":pals-13:") ![:pals-14:](36x36/pals-14.png?raw=true ":pals-14:") ![:pals-15:](36x36/pals-15.png?raw=true ":pals-15:") ![:pals-16:](36x36/pals-16.png?raw=true ":pals-16:") ![:pals-17:](36x36/pals-17.png?raw=true ":pals-17:") ![:pals-18:](36x36/pals-18.png?raw=true ":pals-18:") ![:pals-19:](36x36/pals-19.png?raw=true ":pals-19:") ![:pals-20:](36x36/pals-20.png?raw=true ":pals-20:")
 
